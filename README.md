@@ -1,29 +1,13 @@
-🚀 C# EĞİTİM KAMPI PROJELERİ
-http://www.github.com/your_contact_info
-Bu repo, Murat Yücedağ'ın eğitmenliğinde gerçekleştirilen C# Eğitim Kampı süresince tamamladığım ilk 8 projeyi içermektedir. Her bir proje, belirli programlama kavramlarını anlama ve uygulama yeteneğimi geliştirmeme yardımcı oldu. Aşağıda her projeye dair teknik detayları bulabilirsiniz:
+📍📍📍📍📍 C# EĞİTİM KAMPI 📍📍📍📍📍
 
-✨ Proje 1: Merhaba Dünya!
-Bu projede, konsola yazı yazdırmayı öğrendim. Console.WriteLine() komutu ile temel yazdırma işlemlerini keşfettim ve bir C# programının yapısını kavradım. 🌍
+Bu repo, Murat Yücedağ'ın youtube üzerinden yayınlanan C# Eğitim Kampı kapsamında oluşturulmuştur.
 
-✨ Proje 2: Değişkenler
-Bu projede int, string, double gibi farklı veri türlerinde değişkenler tanımlamayı ve kullanmayı öğrendim. Veri tipleri ve değişkenler üzerinde işlemler yapmayı denedim. 🔢
 
-✨ Proje 3: Diziler (Arrays)
-Bu projede, diziler ile çalışmayı öğrendim. Birden fazla değeri bir dizi içinde nasıl depolayabileceğimi ve döngülerle bu değerleri nasıl işleyebileceğimi keşfettim. 🧩
-
-✨ Proje 4: Karar Yapıları (If-Else)
-Bu proje ile if, else if ve else yapıları kullanarak karar mekanizmalarını oluşturdum. Programın farklı koşullara göre nasıl davrandığını test ettim. ⚖️
-
-✨ Proje 5: Döngüler (Loops)
-Bu projede for, while ve foreach döngüleri ile tanıştım. Döngülerle tekrarlayan işlemleri otomatikleştirme ve büyük veri gruplarını işleme becerisi kazandım. 🔄
-
-✨ Proje 6: Metotlar (Methods)
-Kodlarımı daha düzenli ve tekrar kullanılabilir hale getirmek için metotlar oluşturmayı öğrendim. Parametre alarak işlem yapan ve sonuç döndüren metotlar yazmayı denedim. 🛠️
-
-✨ Proje 7: Foreach Döngüsü ve Sınav Sistemi
-Bu projede, foreach döngüsünü daha yakından inceleyip bir sınav sistemi simülasyonu oluşturdum. Öğrencilerin sınav notlarını alarak ortalamalarını hesapladım ve geçme/kalma durumlarını belirledim. 🎓
-
-✨ Proje 8: Geriye Değer Döndüren Fonksiyonlar
-Son projede, geri değer döndüren metotlar ile çalıştım. Kullanıcıdan aldığım verileri işleyip sonuçları döndüren fonksiyonlar oluşturdum. Bu proje ile daha karmaşık işlemleri öğrenmiş oldum. 🎗️
-
-Bu projeler sayesinde C# diline dair temel kavramları uygulamalı olarak öğrenme fırsatı buldum. İlerleyen projelerde bu bilgileri daha da geliştireceğim!
+📍 Proje 1: Yazdırma komutları, string ve integer değişken türlerini öğrendim.
+📍 Proje 2: Double, char gibi değişken tülerini öğrendim. Ayrıca klavyeden veri alarak bu değişkenlere değer atamayı öğrendim.
+📍 Proje 3: If-Else, Mod alma, Switch-case gibi karar yapılarını öğrendim.
+📍 Proje 4: For ve while döngü türlerini öğrenerek örnek uygulama yaptım.
+📍 Proje 5: Bu derste döngüler ile uygulamalar yaptık. Alt alta, yan yana, üçgen ve baklava diliminde şekilleri kodlar ile yıldız karakteriyle oluşturduk
+📍 Proje 6: Dizileri birden çok uygulamalar ile pekiştirdim ve eksiklerimi tamamladım
+📍 Proje 7: Foreach Döngü yapısını öğrendim. Foreach döngü yapısı ve if-else gibi karar yapıları ile uygulamalar yaptım.
+📍 Proje 8: Metotları öğrendim. Geriye değer döndüren ve değer döndürmeyen metot türlerini öğrendim. void veya veri türlerine göre metot oluşturmayı öğrendim.
